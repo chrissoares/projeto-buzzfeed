@@ -5,8 +5,13 @@
   border: 0;
   box-sizing: border-box;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
 }
 
 a {
+  text-decoration: none;
+}
+
+body{
   background-color: #1F1147;
 }
